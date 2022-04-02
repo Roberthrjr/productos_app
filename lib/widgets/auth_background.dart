@@ -7,7 +7,7 @@ class AuthBackground extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SizedBox(
+    return Container(
       // color: Colors.redAccent,
       width: double.infinity,
       height: double.infinity,
