@@ -38,4 +38,3 @@ class ProductsService extends ChangeNotifier {
     return products;
   }
 }
- //FilteringTextInputFormatter.allow(RegExp(r'^(\d+)?\.?\d{0,2}'))
